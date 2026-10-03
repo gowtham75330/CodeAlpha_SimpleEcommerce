@@ -1,0 +1,10 @@
+node_modules/
+backend/node_modules/
+backend/.env
+.env
+.mysql-data/
+mysql-dev.ini
+start-local-mysql.bat
+*.log
+.DS_Store
+Thumbs.db
